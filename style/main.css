@@ -1,0 +1,93 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Arial;
+	background: black;
+}
+
+div.wrapper{
+	padding: 1%;
+}
+
+/*header*/
+header{
+	margin: 0 auto;
+	padding: 0 auto;
+	height: 50px;
+	position: relative;
+}
+
+.content .dHD img{
+	position: absolute;
+	width: 1438px;
+	height: 769px;
+	top: -1px;
+	left: 1px;
+	background-color: url(imeg/bg.png);
+}
+
+.content .logo img{
+	position: absolute;
+	height:23px;
+	width: 101.62px;
+	margin-top:40px;
+	margin-left: 669px;
+	
+}
+
+.content .partner {
+	position: absolute;
+	display: flex;
+	font-size: 30px;
+	font-family: 'BebasNeueBold';
+	text-align: center;
+	color: white;
+	line-height: 70.31px;
+	margin-top: 380px;
+	margin-left: 335px;
+}
+ 
+.content .partner_text{
+	position: absolute;
+	display: flex;
+	font-size: 16px;
+	font-family:'OpenSans';
+	text-align: center;
+	line-height: 19px;
+	width: 386px;
+	height: 22px;
+	margin-left: 185px;
+	color: #ffffff;
+}
+
+.content .scroll{
+	position: absolute;
+	display: flex;
+	font-family: 'OpenSans';
+	font-size: 19px;
+	line-height:13px;
+	text-align: center;
+	align-items: flex-end;
+	color: #ffffff;
+	width: 386px;
+	height: 22px;
+	margin-left: 185px;
+
+}
+
+/*menu*/
+section.menu {
+	display: block;
+}
+
+content.top-navigation{
+	height: ;
+	font-size: ;
+	color: ;
+	background: red;
+	padding:7px ;
+}
